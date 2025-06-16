@@ -377,7 +377,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/stats-strided/dnanvariance`][@stdlib/stats/strided/dnanvariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dstdev`][@stdlib/stats/strided/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/dvarm`][@stdlib/stats/base/dvarm]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array provided a known mean.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dvarm`][@stdlib/stats/strided/dvarm]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array provided a known mean.</span>
 -   <span class="package-name">[`@stdlib/stats-base/svariance`][@stdlib/stats/base/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/variance`][@stdlib/stats/base/variance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array.</span>
 
@@ -469,7 +469,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dstdev]: https://github.com/stdlib-js/stats-strided-dstdev
 
-[@stdlib/stats/base/dvarm]: https://github.com/stdlib-js/stats-base-dvarm
+[@stdlib/stats/strided/dvarm]: https://github.com/stdlib-js/stats-strided-dvarm
 
 [@stdlib/stats/base/svariance]: https://github.com/stdlib-js/stats-base-svariance
 
